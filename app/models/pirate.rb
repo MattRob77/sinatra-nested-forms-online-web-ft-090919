@@ -8,4 +8,7 @@ class Pirate
     @@all << self 
   end 
   
+  def self.all 
+    
+  
 end
