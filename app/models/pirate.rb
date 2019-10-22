@@ -12,6 +12,7 @@ class Pirate
     @@all 
   end 
   
-  
+  def self.clear 
+    
   
 end
